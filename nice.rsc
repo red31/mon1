@@ -1,0 +1,1 @@
+/opt/ipx/nice.rsc
