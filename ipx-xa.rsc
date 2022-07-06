@@ -1,1 +1,0 @@
-/opt/ipx/ipx-xa.rsc
